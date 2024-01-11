@@ -1,6 +1,6 @@
 # Eternalevasion
 
-"Eternalevasion" é um jogo envolvente e assustador que desafia os jogadores a sobreviverem em um hotel repleto de monstros e espíritos. A barra de sanidade é a chave para o sucesso, pois influencia diretamente na jogabilidade. À medida que a sanidade diminui, o jogo se torna mais desafiador, apresentando efeitos perturbadores que aumentam a tensão.
+"Eternalevasion" é um jogo envolvente e assustador que desafia os jogadores a sobreviverem em um labirinto sobrenatural, repleto de fantasmas e espíritos. A barra de sanidade é a chave para o sucesso, pois influencia diretamente na jogabilidade. À medida que a sanidade diminui, o jogo se torna mais desafiador, apresentando efeitos perturbadores que aumentam a tensão.
 
 Oferece uma experiência única e desafiadora, misturando elementos de terror psicológico com ação estratégica. Prepare-se para mergulhar nas sombras e testar sua sanidade enquanto luta pela sobrevivência em um hotel assombrado.
 
@@ -30,24 +30,17 @@ As respostas automáticas do jogo podem assumir um tom mais ameaçador ou sinist
 
 Frases ou palavras podem ser embaralhadas, criando mensagens confusas e incoerentes. Palavras-chave podem ser substituídas por sinônimos ou termos mais ameaçadores.
 
-## Monstros e Eventos
+## Fantasmas e Eventos
 
-A sobrevivência no hotel depende da habilidade do jogador em lidar com diferentes níveis de monstros e eventos. A **sanidade** é a estatística mais importante, pois determina a dificuldade do jogo. A falta de sanidade pode resultar em eventos inesperados e aumentar a presença de monstros ameaçadores.
-
-### Tipos de entidades: 
-- Nivel I 
-
-        Monstros Inofensivos: Podem ser evitados, mas diminuem a sanidade em 10 ao serem encontrados.
-
-- Nível II 
-
-        Monstros Ofensivos: Atacam o jogador se não forem evitados, representando uma ameaça direta à sobrevivência.
+A sobrevivência no labirinto agora depende da habilidade do jogador em lidar com diferentes tipos de fantasmas e eventos. Cada fantasma apresenta quatro escolhas, sendo uma boa, duas neutras e uma ruim, impactando de maneira única na sanidade do jogador. A sanidade continua sendo a estatística mais importante, pois determina a dificuldade do jogo. A falta de sanidade pode resultar em eventos inesperados e aumentar a presença de fantasmas ameaçadores.
 
 
-### Entidades nível II
-- Oplsi
 
-            Oplsi: Uma aranha gigante que, paradoxalmente, tem medo do escuro. O jogador deve acender a lanterna para afastar o Oplsi, caso contrário, será atacado.
+
+### Entidades
+- Fantasmas da Luz
+
+            2 irmãos sensíveis à luz.
 
 ## Aprendizados
 
